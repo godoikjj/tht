@@ -1,0 +1,45 @@
+#main-header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+#main-body-1{
+    text-align: center;
+    font-size: 25;
+    color: black;
+}
+.social-icons {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: -30px;
+        }
+        .facebook{
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            margin-left: 38px;
+        }
+        .facebook:hover{
+            border: 1px solid black;
+        }
+        .instagram{
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            margin-left: 40px;
+        }
+        .instagram:hover{
+            border: 1px solid black;
+        }
+        .Twitter{
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            margin-left: 40px;
+        }
+        .Twitter:hover{
+            border: 1px solid black;
+        }
